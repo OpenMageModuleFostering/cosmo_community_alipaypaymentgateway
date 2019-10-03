@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Cosmo_Community_AlipayPaymentGateway",
+    "name": "openmage-module-fostering\/cosmo_community_alipaypaymentgateway",
     "type": "magento-module",
-    "license": "Open-Software-License-(OSL)",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "\u4e2d\u56fd\u56fd\u5185\u652f\u4ed8\u7f51\u5173\u652f\u4ed8\u5b9d - Chinese Biggest Payment Gateway Alipay",
     "authors": [
