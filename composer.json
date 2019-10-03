@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Cosmo_Community_AlipayPaymentGateway",
+    "name": "OpenMageModuleFostering\/Cosmo_Community_AlipayPaymentGateway",
     "type": "magento-module",
     "license": "Open-Software-License-(OSL)",
     "homepage": "",
-    "description": "中国国内支付网关支付宝 - Chinese Biggest Payment Gateway Alipay",
+    "description": "\u4e2d\u56fd\u56fd\u5185\u652f\u4ed8\u7f51\u5173\u652f\u4ed8\u5b9d - Chinese Biggest Payment Gateway Alipay",
     "authors": [
-    {
-        "name": "AirForce",
-        "email": "airforce.e@gmail.com"
-    }
-],
+        {
+            "name": "AirForce",
+            "email": "airforce.e@gmail.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
